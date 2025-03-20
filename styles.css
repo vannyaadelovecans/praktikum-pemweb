@@ -138,7 +138,7 @@ input[type="tel"] {
     flex: 1;
 }
 
-.btn-submit {
+.btn-simpan {
     width: 100%;
     padding: 15px;
     background-color: #2e7d64;
@@ -342,12 +342,12 @@ select {
     font-size: 16px;
 }
 
-.save-button-container {
+.simpan-button-container {
     display: flex;
     justify-content: flex-end;
 }
 
-.save-button-container .btn-submit {
+.simpan-button-container .btn-simpan {
     width: auto;
     padding: 12px 30px;
 }
